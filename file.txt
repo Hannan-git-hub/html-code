@@ -15,3 +15,5 @@
 15. ls  
 15. cls  
 16.git init
+17.git branch
+18.git branch -m main
