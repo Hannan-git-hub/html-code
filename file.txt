@@ -1,0 +1,17 @@
+1.git clone url
+2.cd folder
+3.git status
+4.git add filename
+5.git add .
+6.git commit -m "message"
+7. git push --force origin main
+8. git push origin main
+9. git pull origin main
+10. git pull --rebase origin main
+11.git rebase --continue 
+12. in bash: touch tailwind.config.js 
+13.mkdir "fileName"
+14.del "fileName"
+15. ls  
+15. cls  
+16.git init
